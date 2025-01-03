@@ -24,6 +24,7 @@
 
     "things.stone.disappearance.data.pack.message": "[数据包消息]",
     "things.stone.disappearance.message.enable": "开启了填充玻璃",
-    "things.stone.disappearance.message.disable": "关闭了填充玻璃"
+    "things.stone.disappearance.message.disable": "关闭了填充玻璃",
 
+    "redstone.lucky.block.island.kill.entity": "[数据包消息] 已清理实体"
 }

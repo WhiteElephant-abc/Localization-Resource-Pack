@@ -24,5 +24,7 @@
 
     "things.stone.disappearance.data.pack.message": "[Data packet message]",
     "things.stone.disappearance.message.enable": "has enabled the filling glass",
-    "things.stone.disappearance.message.disable": "has disabled the filling glass"
+    "things.stone.disappearance.message.disable": "has disabled the filling glass",
+    
+    "redstone.lucky.block.island.kill.entity": "[Packet message] Entities have been cleared"
 }
