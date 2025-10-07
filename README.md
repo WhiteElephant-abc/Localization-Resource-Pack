@@ -1,2 +1,3 @@
-# Localization-Resource-Pack
-All my data packages require this resource package for localization.
+# 项目已迁移 | Project Migrated
+
+<https://github.com/WhiteElephant-abc/datapack/>
